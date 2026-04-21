@@ -1,0 +1,17 @@
+C:\Projekte\EasyParking\EasyParking.Data\bin\Debug\net9.0\EasyParking.Data.deps.json
+C:\Projekte\EasyParking\EasyParking.Data\bin\Debug\net9.0\EasyParking.Data.dll
+C:\Projekte\EasyParking\EasyParking.Data\bin\Debug\net9.0\EasyParking.Data.pdb
+C:\Projekte\EasyParking\EasyParking.Data\bin\Debug\net9.0\EasyParking.Domain.dll
+C:\Projekte\EasyParking\EasyParking.Data\bin\Debug\net9.0\EasyParking.Domain.pdb
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.csproj.AssemblyReference.cache
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.AssemblyInfoInputs.cache
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.AssemblyInfo.cs
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.csproj.CoreCompileInputs.cache
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyPark.33BBC31D.Up2Date
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.dll
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\refint\EasyParking.Data.dll
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.pdb
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\ref\EasyParking.Data.dll
+C:\Projekte\EasyParking\EasyParking.Data\bin\Debug\net9.0\EasyParking.Data.runtimeconfig.json
+C:\Projekte\EasyParking\EasyParking.Data\obj\Debug\net9.0\EasyParking.Data.genruntimeconfig.cache

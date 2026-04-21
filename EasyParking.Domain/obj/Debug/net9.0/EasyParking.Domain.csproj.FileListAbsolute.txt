@@ -1,0 +1,11 @@
+C:\Projekte\EasyParking\EasyParking.Domain\bin\Debug\net9.0\EasyParking.Domain.deps.json
+C:\Projekte\EasyParking\EasyParking.Domain\bin\Debug\net9.0\EasyParking.Domain.dll
+C:\Projekte\EasyParking\EasyParking.Domain\bin\Debug\net9.0\EasyParking.Domain.pdb
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\EasyParking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\EasyParking.Domain.AssemblyInfoInputs.cache
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\EasyParking.Domain.AssemblyInfo.cs
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\EasyParking.Domain.csproj.CoreCompileInputs.cache
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\EasyParking.Domain.dll
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\refint\EasyParking.Domain.dll
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\EasyParking.Domain.pdb
+C:\Projekte\EasyParking\EasyParking.Domain\obj\Debug\net9.0\ref\EasyParking.Domain.dll
